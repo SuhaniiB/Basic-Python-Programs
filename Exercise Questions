@@ -1,0 +1,29 @@
+The practice questions solved in the file name="Lab_Exercise_2.ipynb" are as follows:
+
+Case Study 1: Employee Salary Calculation
+Scenario: A company wants to calculate the net salary of its employees after applying taxes 
+and bonuses. The salary is determined based on the following operations:
+• The base salary is increased by a fixed bonus.
+• A tax percentage is then deducted from the total.
+• The net salary should be calculated while respecting the precedence of operations.
+Exercise:
+1. Write a Python program that takes the base salary, bonus, and tax percentage as input.
+2. Calculate the gross salary by adding the bonus to the base salary.
+3. Calculate the net salary by subtracting the tax (as a percentage of the gross salary) 
+from the gross salary.
+4. Ensure the order of operations is respected.
+
+Case Study 2: Shopping Cart Total Calculation
+Scenario: A local grocery store has asked you to create a simple program that calculates the 
+total amount a customer needs to pay after applying discounts and taxes. The store offers a 
+discount on the total purchase, and after applying the discount, a tax is added to the discounted 
+amount.
+Exercise:
+1. Write a Python program that takes the total purchase amount, discount percentage, 
+and tax percentage as input.
+2. Calculate the discounted amount by applying the discount percentage to the total 
+purchase amount.
+3. Calculate the final amount to be paid by adding the tax (as a percentage of the 
+discounted amount) to the discounted amount.
+4. Ensure that the operations are performed in the correct order, respecting operator 
+precedence
